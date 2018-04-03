@@ -1,0 +1,10 @@
+div[class*="col-"]{
+  border: 1px solid-black;
+}
+.ea{
+  max-width: none; width: 100%
+}
+
+h1{
+  color:white;
+}
